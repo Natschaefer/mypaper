@@ -12,3 +12,4 @@ analysse data
 conclusion 
 
 appendix
+details
